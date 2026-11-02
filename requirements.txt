@@ -4,4 +4,4 @@ feature-engine==1.9.4
 imbalanced-learn==0.14.2
 category-encoders==2.11.1
 fastapi==0.162.0
-uvicord==0.40.0
+uvicorn==0.40.0
